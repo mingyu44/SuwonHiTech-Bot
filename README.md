@@ -1,2 +1,3 @@
 # SuwonHiTech-Bot
-Suwon Hi-Tech HighSchool's School meals Notification Bot
+본 프로젝트는 파이썬을 이용한 학교급식알리미입니다.
+기능으로는 "그제, 어제, 오늘, 내일, 모레"와 "start"가 존재합니다.
