@@ -19,4 +19,4 @@
 * start명령어는 봇이 동작하는지 확인할 수 있습니다.
 * 나머지 명령어는 각각 당일 기준으로 해당 날짜 수원하이텍고등학교의 급식표를 가져옵니다.(단, 아침 메뉴는 업체 미제공으로 지원 불가)
 
-급식표 주소 : http://sht.hs.kr/?_page=41&_action=view&_view=view&yy=' + str(today.year) + '&mm=' + str(today.month) + '&dd=' + str(today.day)
+급식표 주소 : 'http://sht.hs.kr/?_page=41&_action=view&_view=view&yy=' + str(today.year) + '&mm=' + str(today.month) + '&dd=' + str(today.day)
